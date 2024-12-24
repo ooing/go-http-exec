@@ -1,0 +1,9 @@
+{
+    "name": "ooing/go-http-exec",
+    "autoload": {
+        "psr-4": {
+            "ooing\\GoHttpExec\\": "src/"
+        }
+    },
+    "require": {}
+}
